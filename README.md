@@ -51,7 +51,7 @@ Diferente de scripts simples, este projeto possui uma **Interface Gráfica (GUI)
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/JoaoPaulo121212/organizador-arquivos.git](https://github.com/JoaoPaulo121212/organizador-arquivos.git)
+    git clone [https://github.com/JoaoPaulo121212/organizador-arquivos.git](https://github.com/jotape12-Dev/organizador-arquivos.git)
     cd organizador-arquivos
     ```
 
